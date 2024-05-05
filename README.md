@@ -2,6 +2,8 @@
 Projet de Conception et Développement Avancé d'Application
 
 Ce projet concerne la conception et le développement d'une application de gestion de contacts, d'interactions et de tâches à faire (todos). L'application dispose d'une interface utilisateur permettant la visualisation, la modification et la suppression des données, ainsi que la recherche avancée.
+
+
 Contenu du projet
 
 Le projet comprend les éléments suivants :
